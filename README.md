@@ -1,20 +1,3 @@
-shayari-card/
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   └── ShayariCard.jsx
-│   ├── pages/
-│   │   ├── HomePage.jsx
-│   │   ├── CreateShayariPage.jsx
-│   │   ├── CardDetailPage.jsx  // NEW
-│   │   └── AboutPage.jsx
-│   ├── context/
-│   │   └── CardsContext.jsx  // NEW - For global state
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-
-
 
  Features Summary:
 
