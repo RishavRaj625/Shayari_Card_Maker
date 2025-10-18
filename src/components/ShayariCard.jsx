@@ -41,7 +41,7 @@ const ShayariCard = ({ card, backgrounds, onDownload, onDelete }) => {
           }}
           className="flex-1 bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-4 rounded-xl transform hover:scale-105 transition-all shadow-lg"
         >
-          🗑️ Delete
+          Delete
         </button>
       </div>
     </div>
@@ -50,3 +50,4 @@ const ShayariCard = ({ card, backgrounds, onDownload, onDelete }) => {
 
 
 export default ShayariCard;
+
