@@ -1,21 +1,4 @@
-shayari-card/
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   └── ShayariCard.jsx
-│   ├── pages/
-│   │   ├── HomePage.jsx
-│   │   ├── CreateShayariPage.jsx
-│   │   ├── CardDetailPage.jsx 
-│   │   └── AboutPage.jsx
-│   ├── context/
-│   │   └── CardsContext.jsx 
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-
-
- Features Summary:
+Features Summary:
 
 ✅ React Router - Navigation between Home, Create, and About pages
 ✅ Navbar Component - Consistent navigation across all pages
